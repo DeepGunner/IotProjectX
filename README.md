@@ -1,11 +1,10 @@
-The need to automate the irrigation system :
-
-After hearing first hand experiences and reading from several sources online we discovered the plight of potato farmers and this served as the motivation behind our project. 
-Through our project we aimed to minimize the effort and surveillance that a potato farmer usually puts in his crops. Potatoes need a steady, season-long supply of water, but it's most important 6 to 10 weeks after planting, when the plants start to develop, A potato plant needs a dependable watering schedule and cool soil temperatures to produce desirable, evenly formed potatoes.Too much or too little water can impair tuber formation and jeopardize plant health. 
-
-
-IRRIGATION SYSTEM USING IOT
-Our project allows farmers equipped with smart phones to survey the water level at all times remotely and also set a threshold moisture level to automatically hold that moisture level intact throughout the season. The farmer also has the option to override this automation and control the irrigation system manually to conserve water. This helps him to avoid several trips down to the field every time he wishes to check and maintain the water level of the soil.
-
-
+![2017-12-02](https://user-images.githubusercontent.com/26375173/33517955-13fc7434-d7b3-11e7-93bf-cb2b5a9eeb7b.png)
+![2017-12-02 1](https://user-images.githubusercontent.com/26375173/33517962-47470d72-d7b3-11e7-9c56-c3d1aaa3a475.png)
+![2017-12-02 2](https://user-images.githubusercontent.com/26375173/33517965-5535b76c-d7b3-11e7-8a50-584035be4354.png)
+![2017-12-02 3](https://user-images.githubusercontent.com/26375173/33517969-61cdec1a-d7b3-11e7-8094-41a0a1943660.png)
+![2017-12-02 5](https://user-images.githubusercontent.com/26375173/33517973-761bc12e-d7b3-11e7-88a0-da7e2b3d1b36.png)
+![2017-12-02 4](https://user-images.githubusercontent.com/26375173/33517974-7649c880-d7b3-11e7-863a-647941cfc746.png)
+![2017-12-02 8](https://user-images.githubusercontent.com/26375173/33517980-8afe3194-d7b3-11e7-921c-62747d333cf7.png)
+![2017-12-02 7](https://user-images.githubusercontent.com/26375173/33517981-8b285802-d7b3-11e7-9ff2-147942f3240f.png)
+![2017-12-02 6](https://user-images.githubusercontent.com/26375173/33517982-8b5396a2-d7b3-11e7-960e-5ceac77d5406.png)
   
